@@ -1,9 +1,9 @@
-year=int(input())
-if year%4==0:
+y=int(input())
+if y%4==0:
   print("yes")
-elif year%100==0:
+elif y%100==0:
   print("no")
-elif year%400==0:
+elif y%400==0:
   print("yes")
 else:
   print("no")
