@@ -4,4 +4,4 @@ a=[]
 for i in range(n):
   b=int(input())
   a.append(b)
-print(a[k])
+print(a[k-1])
