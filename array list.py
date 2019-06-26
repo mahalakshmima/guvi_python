@@ -1,7 +1,7 @@
-n=int(input())
-k=int(input())
+N=int(input())
+K=int(input())
 a=[]
-for i in range(n):
+for i in range(N):
   b=int(input())
   a.append(b)
-print(a[k-1])
+print(a[K-1])
