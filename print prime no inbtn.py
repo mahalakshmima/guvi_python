@@ -7,4 +7,4 @@ for Number in range (int(a)+1,int(b)):
             break
 
     if (cnt == 0 and Number != 1):
-        print(" %d" %Number, end = '  ')
+        print(" %d" %Number, end = '')
