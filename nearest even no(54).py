@@ -1,5 +1,5 @@
-num = int(input())
-if (num%2==1):
-  print(num-1)
+num1 = int(input())
+if (num1%2==1):
+  print(num1-1)
 else:
-  print(num)
+  print(num1)
