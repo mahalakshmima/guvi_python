@@ -1,3 +1,3 @@
-a=int(input())
-b=list(map(int,input().split()))[:a]
-print(min(b),max(b))
+ab=int(input())
+ba=list(map(int,input().split()))[:ab]
+print(min(ba),max(ba))
