@@ -1,5 +1,5 @@
-a=int(input())
-if 1<a<10:
+ran=int(input())
+if 1<ran<10:
   print("yes")
 else:
   print("no")
